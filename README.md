@@ -1,4 +1,5 @@
 ### Hi there 👋
+Welcome to my profile. Feel free to look around.
 
 <!--
 **gaijin-developer/gaijin-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
