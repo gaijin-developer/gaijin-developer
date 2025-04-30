@@ -19,6 +19,25 @@ I love learning from experts through — **book reading**,**blog reading** or **
 - Python
 - PHP
 ---
+## Tools & Technologies I Use
+## 使用しているツールと技術
+
+### 🚀 Frontend
+- **React**, **Vue**, **Next.js**, **Tailwind CSS**, **Shadcn**, **Framer Motion**, **SASS**
+
+### 🛠️ Backend
+- **Node.js**, **Express**, **Golang**, **PHP**, **Laravel**, **Django**, **Spring Boot**
+
+### 🗄️ Databases
+- **PostgreSQL**, **MongoDB**, **MySQL**, **Redis**
+
+### ⚙️ DevOps
+- **Docker**, **Kubernetes**, **AWS**, **Linux OS**
+
+### 🔒 Other
+- **Authentication**, **Authorization**, **Git/Github**, **REST APIs**, **WebSockets**, **WebRTC**, **Supabase**, **Vite**, **Ansible**, **Jest**, **Bash Scripting**
+
+---
 
 ### Hobbies ⚽️ Football
 
