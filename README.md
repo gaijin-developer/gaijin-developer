@@ -1,4 +1,4 @@
-### Hi there Frank here👋
+### Hi there, Frank here👋
 Welcome to my profile. Feel free to look around.
 私のプロフィールへようこそ。ご自由にご覧ください。
 
