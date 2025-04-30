@@ -12,7 +12,7 @@ I love learning from experts through — **book reading**,**blog reading** or **
 専門家から学ぶことが大好きで、**読書**、**ブログの閲覧**、あるいは**ゼロから何かを作ること**を通じて学んでいます。
 
 ---
-##Programming languages include
+## Programming languages include
 - Typescript
 - Golang
 - Java
