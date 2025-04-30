@@ -17,7 +17,7 @@ I love learning from experts through — **book reading**,**blog reading** or **
 - Golang
 - Java
 - Python
-- php
+- PHP
 ---
 
 ### Hobbies ⚽️ Football
