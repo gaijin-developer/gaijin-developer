@@ -48,4 +48,4 @@ I love watching football.
 ---
 
 Thanks for stopping by! 😊 
-Feel free to reach out or check out my pinned projects above.
+Feel free to reach out .
